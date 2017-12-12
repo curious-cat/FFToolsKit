@@ -1,0 +1,30 @@
+{
+  "name": "FFToolsKit",
+  "version": "2.5",
+  "summary": "基础组件",
+  "description": "TODO: 基础组件",
+  "homepage": "https://github.com/curious-cat/FFToolsKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "842373586@qq.com": "842373586@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/curious-cat/FFToolsKit.git",
+    "tag": "2.5"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FFToolsKit/Classes/**/*",
+  "dependencies": {
+    "FMDB": [
+
+    ],
+    "MBProgressHUD": [
+
+    ]
+  }
+}
